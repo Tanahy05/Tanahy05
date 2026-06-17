@@ -6,8 +6,6 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tanahy05\&style=flat-square)
-
 </div>
 
 ---
@@ -50,25 +48,9 @@ I enjoy taking ideas from concept to implementation, experimenting with new tech
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tanahy05&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanahy05&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Tanahy05&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 📂 What You'll Find Here
 
@@ -84,12 +66,6 @@ I enjoy taking ideas from concept to implementation, experimenting with new tech
 
 ## 💡 Philosophy
 
-```python
-while True:
-    learn()
-    build()
-    improve()
-```
 
 Software engineering is a continuous process of curiosity, experimentation, and iteration.
 
@@ -99,6 +75,6 @@ Software engineering is a continuous process of curiosity, experimentation, and 
 
 ### Thanks for stopping by 👨‍💻
 
-*"Building, breaking, learning, repeating."*
+
 
 </div>
